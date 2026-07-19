@@ -1,6 +1,6 @@
 ### hi 👋!
 
-👾 | exploit dev
+👾 | exploit dev        
 🧩 | luau and c++ | self-taught  
 🚫 | no steal, no sell
 
