@@ -1,7 +1,7 @@
 ### hi 👋!
 
 👾 | exploit dev
-🧩 | luau scripter | self-taught  
+🧩 | luau and c++ | self-taught  
 🚫 | no steal, no sell
 
 #### Statistics
