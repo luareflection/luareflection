@@ -1,7 +1,7 @@
 ### hi 👋!
 
 🇨🇭 | Swiss reverse engineer
-🧩 | game-cheat developer & Luau scripter
+🧩 | game-cheat developer
 🛠️ | IDA Pro · x64dbg · ReClass.NET · Ghidra · Binary Ninja · WinDbg · Frida · dnSpyEx · Scylla
 🧪 | driver security research · BYOVD development
 🚫 | no steal, no sell
