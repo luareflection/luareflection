@@ -10,7 +10,7 @@
 
 I reverse engineer software, study game internals, and build tools for security research and educational purposes. My toolkit includes static and dynamic analysis, debugging, memory inspection, tracing, and more.
 
-> It may look like I do 0 work here, but I actually do a lot — most of my repositories are private.
+> It may look like I do 0 work here, but I actually do a lot (most of my repositories are private)
 
 #### Statistics
 
