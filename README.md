@@ -1,6 +1,6 @@
 ### hi 👋!
 
-Swiss reverse engineer \n 
+Swiss reverse engineer 
 game-cheat developer
 IDA Pro · x64dbg · ReClass.NET · Ghidra · Binary Ninja · WinDbg · Frida · dnSpyEx · Scylla
 driver security research · BYOVD development
