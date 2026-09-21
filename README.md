@@ -1,10 +1,11 @@
 ### hi 👋!
 
-Swiss reverse engineer 
-game-cheat developer
-IDA Pro · x64dbg · ReClass.NET · Ghidra · Binary Ninja · WinDbg · Frida · dnSpyEx · Scylla
-driver security research · BYOVD development
+Swiss reverse engineer<br>
+game-cheat developer<br>
+IDA Pro · x64dbg · ReClass.NET · Ghidra · Binary Ninja · WinDbg · Frida · dnSpyEx · Scylla<br>
+driver security research · BYOVD development<br>
 no steal, no sell
+
 
 #### About me
 
